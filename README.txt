@@ -5,6 +5,6 @@ This server is a personalized multiple choice quiz questions, the server approac
 2. An answers file (answers.txt), with contains the correct answers in a column.
    The answers should be matched to the marked answers' system.
 
-Please run the main.py file
-and then press on the  http://127.0.0.1:5000/
+Please run the main.py file first
+and then press on the link- http://127.0.0.1:5000/
 or print it on your browser
